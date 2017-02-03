@@ -1,0 +1,11 @@
+{
+  "name": "node-mysql",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.10.6",
+    "formidable": "^1.0.17",
+    "mysql": "^2.5.4"
+  }
+}

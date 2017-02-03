@@ -3,7 +3,7 @@ constroller:控制器
 image：图片
 www:前端文件
 app.js项目入口文件
-db.js
+db.js1
 
 二，安装依赖包:
 npm install
